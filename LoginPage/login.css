@@ -91,13 +91,11 @@ body {
     background-size: contain;
     height: 16px;
     width: 16px;
-
 }
 
 .rightSide .email .emailAndInfo {
     display: flex;
     justify-content: space-between;
-
 }
 
 .rightSide .input1,
@@ -109,6 +107,7 @@ body {
     flex-shrink: 0;
     border-radius: 4px;
     background: var(--input-field, #ECF2F7);
+    border: none;
 }
 
 .rightSide .input1,
